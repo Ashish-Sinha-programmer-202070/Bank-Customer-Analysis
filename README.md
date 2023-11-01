@@ -1,4 +1,4 @@
 # Bank-Customer-Analysis
-![Bank Customer Analysis]("Bank Customer Analysis Img.png")
-<img width="960" alt="github_readme_banner" src="https://github.com/Ashish-Sinha-programmer-202070/Ashish-Sinha-programmer-202070/blob/main/github_readme_profile.png">
+<img width="960" alt="Bank Customer Analysis" src="https://github.com/Ashish-Sinha-programmer-202070/Bank-Customer-Analysis/blob/main/Bank%20Customer%20Analysis%20Img.png">
+
 
